@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<title>Senior Capstone</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">   
+
+		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+		<link rel="manifest" href="images/site.webmanifest">		
+  	</head>
+  	<body>
+
+
+	  <div class="container py-3">
+  			<header>
+   				<div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+				   <a href="index.php" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+       					<span class="fs-4"><img src="images/together.png" width="180" height="150"> </span>
+						<h1 class="display-3 fw-normal text-body-emphasis">Racial Diversity In Lacrosse</h1>
+
+					</a>
+
+	  				<nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+					  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="coach.php">Coaches Interviewed</a>
+	  					<a class="me-3 py-2 link-body-emphasis text-decoration-none" href="story.php">Teammate Story</a>
+						  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="find.php">My Findings</a>
+
+      				</nav>
+
+
+      				
+    			</div>
+
+
+                <body>
+
+    <main role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <div class="container">
+          <h1 class="display-3">My Findings</h1>
+          <p>This project has the potential to raise awareness about diversity issues in lacrosse by uncovering disparities in recruitment strategies. The findings can serve as a compelling case for securing extra funding to address these issues, advocating for the expansion of lacrosse programs into diverse communities. This dual impact aims to not only refine recruitment strategies but also contribute to positive change by promoting inclusivity and increasing opportunities for underrepresented individuals in the sport.
+          <br>
+          <br>
+          The findings below stem from conversations I had with coaches from various colleges. My aim was to shed light on an issue within the sport we love and to assist coaches, players, and board members in recognizing and addressing this problem. 
+          <br>
+          <br>
+          Through these discussions, it became evident that there are systemic challenges within lacrosse, particularly concerning diversity and inclusion. Coaches expressed concerns about the lack of representation from certain demographics and regions, highlighting a need for greater awareness and action to address these disparities. 
+          <br>
+          <br>
+          Moreover, it was clear that this issue extends beyond mere recruitment strategies; it permeates the culture and accessibility of lacrosse itself. By bringing attention to these challenges, we can work towards fostering a more inclusive environment within the sport. It's essential for coaches, players, and board members to understand the gravity of this issue and to collectively take steps towards positive change. By acknowledging and confronting these challenges head-on, we can pave the way for a more diverse, equitable, and vibrant lacrosse community.
+          </p>
+        </div>
+      </div>
+<br>
+<br>
+
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+          <div class="col-md-4">
+            <h2>Berry College</h2>
+            <p>
+At Berry College, our lacrosse team boasts a 39-man roster, with 5 individuals hailing from diverse backgrounds, constituting approximately 12% of our team. In discussions with our coach, Coach Gilbert, it's evident that he prioritizes ensuring equal opportunities for all individuals within his program, both in recruitment and during their time on the team.
+<br>
+<br>
+
+Throughout his 11-year tenure at Berry, Coach Gilbert reports no instances of racial problems within the team, a sentiment echoed by my personal experience as a team member. We adhere to strict guidelines regarding team conduct, including a commitment to ensuring everyone feels included regardless of race, religion, or culture. Moreover, any form of racial comments or behavior is swiftly and unequivocally addressed and not tolerated within our team environment.
+<br>
+<br>
+
+These efforts underscore our commitment to fostering a welcoming and inclusive team culture, where diversity is celebrated and respected. As we continue to uphold these principles, we aim to set an example within our program and contribute positively to the broader lacrosse community, both on and off the field. </p>
+          </div>
+          <div class="col-md-4">
+            <h2>Oglethorpe University</h2>
+            <p>
+At Oglethorpe University, our lacrosse team boasts a 19-man roster, with 9 individuals representing racial diversity: 7 African Americans and 2 Asians. This equates to roughly 50% of the team being comprised of individuals from non-white backgrounds. In discussions with Coach Dangel, it's apparent that diversity plays a significant role in his team's dynamics. 
+<br>
+<br>
+Hailing from Atlanta, Coach Dangel notes that the city's diverse population contributes to a wide range of backgrounds among high school lacrosse players. He emphasizes that embracing diversity is integral to the team's ethos. As part of this commitment, the team is required to attend the University's diversity and inclusion seminars. 
+<br>
+<br>
+Coach Dangel highlights the value of these seminars in fostering understanding among team members from diverse backgrounds. By participating in these sessions, the team gains insight into each other's perspectives and experiences, ultimately strengthening their bonds on and off the field. 
+<br>
+<br>
+This emphasis on diversity and inclusion underscores the team's commitment to creating a supportive and inclusive environment. As they continue to engage with and learn from each other, they strive to embody the principles of respect, understanding, and unity, both within their team and within the broader lacrosse community. </p>
+          </div>
+          <div class="col-md-4">
+            <h2>Lagrange College</h2>
+            <p>
+At Lagrange College, our lacrosse team comprises a 33-man roster, with 5 individuals representing racial diversity, equating to approximately 15% of the team. When speaking with Coach Sewell, it's evident that he prioritizes creating an inclusive environment for all players on his team. 
+<br>
+<br>
+Given that Lagrange is predominantly African American, Coach Sewell emphasizes the importance of recognizing and respecting the diverse backgrounds of his players. He stresses the significance of empathy and understanding, reminding his team that everyone's experiences are unique and deserving of respect. 
+<br>
+<br>
+Coach Sewell not only focuses on coaching lacrosse skills but also on nurturing well-behaved young men. He enforces team rules that strictly prohibit racial comments or actions, fostering a culture of respect and tolerance within the team. 
+<br>
+<br>
+In terms of recruiting, Coach Sewell prioritizes talent and character over any other factors. He looks for players who not only excel in lacrosse but also demonstrate good manners and morals, irrespective of their background or race. 
+<br>
+<br>
+Coach Sewell's approach underscores his commitment to fostering a supportive and respectful team culture. By valuing diversity and emphasizing character, he aims to cultivate not only skilled athletes but also individuals who contribute positively to their community both on and off the field. </p>
+          </div>
+        </div>
