@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<title>Senior Capstone</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">   
+
+		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+		<link rel="manifest" href="images/site.webmanifest">		
+  	</head>
+  	<body>
+
+
+	  <div class="container py-3">
+  			<header>
+   				<div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+				   <a href="index.php" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+       					<span class="fs-4"><img src="images/together.png" width="180" height="150"> </span>
+						<h1 class="display-3 fw-normal text-body-emphasis">Racial Diversity In Lacrosse</h1>
+
+					</a>
+
+	  				<nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+					  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="coach.php">Coaches Interviewed</a>
+	  					<a class="me-3 py-2 link-body-emphasis text-decoration-none" href="story.php">Teammate Story</a>
+						  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="find.php">My Findings</a>
+
+      				</nav>
+
+
+      				
+    			</div>
+
+                <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+                     <h1 class="display-4 fw-normal text-body-emphasis">Senior Capstone</h1>
+                </div>
+
+                <div class="row row-cols-1 row-cols-md-9 mb-5 text-center">
+					<div class="col">
+        				<div class="card mb-4 rounded-3 shadow-sm">
+          					<div class="card-header py-3">
+            					<h4 class="my-0 fw-normal">Problem: Diversity in Lacrosse</h4>
+          					</div>
+
+                                <div class="card-body">
+            					    <li class="card-title pricing-card-title">The demographic for Lacrosse is predominantly white. I would like to explore why this is and how can it be fixed so everyone can enjoy the game of Lacrosse. </li>
+                                </div> 
+
+
+					    <div class="col">
+        				    <div class="card mb-7 rounded-3 shadow-sm">
+          					<div class="card-header py-3">
+            					<h4 class="my-0 fw-normal">What I researched?</h4>
+          				</div>
+                    
+                        <div class="card-body">
+            					<li class="card-title pricing-card-title">In this study, I researched the problems of racial diversity in Lacrosse. Lacrosse is one of the oldest sports in the world and it is a predominantly white sport. I want to dig deeper and find out why this is the case.</li>
+                        </div> 
+
+
+                        <div class="col">
+        				    <div class="card mb-7 rounded-3 shadow-sm">
+          					<div class="card-header py-3">
+            					<h4 class="my-0 fw-normal">How did I achieve this?</h4>
+          				</div>
+                    
+                        <div class="card-body">
+            					<li class="card-title pricing-card-title">For this capstone project, Unity On and Off the Field: A Study for Racial Diversity in Lacrosse, data was gathered through interviews with lacrosse coaches to assess the racial diversity within their teams and to understand their perspectives on fostering inclusivity. In conducting the interviews, I had the opportunity to engage with coaches from Berry, Oglethorpe, and Lagrange. While I spoke with the coaches from Oglethorpe and Lagrange over the phone, I visited my coach from Berry in his office, where we discussed the questions at hand. Through these conversations, I gained valuable insights into the racial diversity present within each team.</li>
+                                
+                        </div> 
