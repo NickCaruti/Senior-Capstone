@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<title>Senior Capstone</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">   
+
+		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+		<link rel="manifest" href="images/site.webmanifest">		
+  	</head>
+  	<body>
+
+
+	  <div class="container py-3">
+  			<header>
+   				<div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+				   <a href="index.php" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+       					<span class="fs-4"><img src="images/together.png" width="180" height="150"> </span>
+						<h1 class="display-3 fw-normal text-body-emphasis">Racial Diversity In Lacrosse</h1>
+
+					</a>
+
+	  				<nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+					  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="coach.php">Coaches Interviewed</a>
+	  					<a class="me-3 py-2 link-body-emphasis text-decoration-none" href="story.php">Teammate Story</a>
+						  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="find.php">My Findings</a>
+
+      				</nav>
+
+
+      				
+    			</div>
+
+                <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+                     <h1 class="display-4 fw-normal text-body-emphasis">Teammate Stories</h1>
+                </div>
+
+
+
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-7 ">
+	<h2 class="featurette-heading">Derek's Story. </h2>
+	<p class="lead">"Growing up immersed in the world of lacrosse, I quickly realized that it was a sport predominantly embraced by white communities. Yet, within this landscape, my dad stood out as one of the few black figures. His passion for the game was infectious, and despite facing challenges and barriers, he was determined to pass on his love for lacrosse to me. 
+	<br>	
+	<br>	
+	As I progressed through my lacrosse journey, my dad's presence became even more significant. He wasn't just my coach; he was my mentor, guiding me through the intricacies of the game both on and off the field. Through his coaching, I not only honed my skills but also learned invaluable life lessons about perseverance, resilience, and the importance of representation. Growing up, seeing my dad as one of the few black faces in the lacrosse community made me acutely aware of the lack of diversity in the sport. However, instead of feeling discouraged, it fueled my determination to excel and to be a part of the change I wanted to see. 
+	<br>	
+	<br>	
+	Learning about trailblazers like Jim Brown and Kyle Harrison showed me that people of color had made significant contributions to lacrosse despite the obstacles they faced. Their achievements served as inspiration, reaffirming that success in lacrosse was not bound by race. Moreover, being part of a racially diverse team provided me with a unique perspective and enriched my overall experience. It fostered a sense of unity and camaraderie, transcending racial barriers and emphasizing the importance of inclusion and acceptance. On the field, we were not defined by the color of our skin but by our shared passion for the game and our collective pursuit of victory. 
+	<br>	
+	<br>	
+	Through lacrosse, my dad instilled in me a deep appreciation for diversity and the value of representation. He showed me that regardless of the challenges we may face, our love for the sport and our determination to succeed could break down barriers and pave the way for future generations. His legacy continues to inspire me to advocate for greater diversity and inclusion in lacrosse and beyond, ensuring that everyone, regardless of race, has the opportunity to experience the transformative power of sports."</p>
+  </div>
+  <div class="col-md-5">
+  <span class="fs-4"><img src="images/derek.png" class="rounded" width="400" height="350"> </span>
+  </div>
+</div>
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-7 order-md-2">
+	<h2 class="featurette-heading">Kobi's Story. </h2>
+	<p class="lead">"Growing up in Georgia and later moving to St. Louis, then back to Georgia, brought with it a multitude of challenges, especially as a black kid trying to navigate the predominantly white lacrosse world. Each move presented its own set of struggles, from adjusting to new schools and communities to finding my place on the lacrosse field. When we resettled in Georgia, something shifted within me. Perhaps it was the familiarity of being back in my home state or the realization that I needed to persevere despite the obstacles stacked against me. Whatever the catalyst, I began to take lacrosse more seriously. It became more than just a game; it became a platform through which I could prove my worth and defy the stereotypes that threatened to hold me back. But the journey was far from easy. 
+	<br>	
+	<br>	
+	Being one of the few black players in a predominantly white sport came with its fair share of adversity. I faced discrimination and bigotry, enduring hurtful slurs and derogatory remarks from opponents and spectators alike. It was disheartening and infuriating, but amidst the darkness, there were moments of light. During tournaments and games, whenever I found myself targeted by racial slurs, my teammates rallied around me without hesitation. They stood up against the perpetrators, refusing to tolerate such hateful behavior. In those moments, I realized that I was not alone. Despite our differences in background and skin color, my teammates saw me as a valued member of the team—a friend and a teammate deserving of respect and protection. 
+	<br>	
+	<br>	
+	Their unwavering support served as a powerful reminder that there are people around me who judge me not by the color of my skin, but by the content of my character and my abilities on the field. It was through their actions that I learned the true meaning of camaraderie and solidarity. Their acceptance and solidarity gave me strength and reaffirmed my belief in the transformative power of diversity. In a sport where racial diversity was lacking, my teammates' actions highlighted the importance of inclusivity and standing up against injustice. Their willingness to confront bigotry head-on created a sense of belonging and unity within our team, transcending racial divides and fostering a culture of mutual respect and support. Through the challenges and triumphs, I emerged stronger and more resilient. 
+	<br>	
+	<br>	
+	My experiences as a black lacrosse player have shaped not only my perspective on the sport but also my understanding of the world around me. They have taught me to never back down in the face of adversity and to always stand up for what is right, regardless of the obstacles that may stand in my way."</p>
+  </div>
+  <div class="col-md-5 order-md-1">
+  <span class="fs-4"><img src="images/Kobi.png" class="rounded" width="400" height="400"> </span>
+  </div>
+</div>
