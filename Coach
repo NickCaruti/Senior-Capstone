@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<title>Senior Capstone</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">   
+
+		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+		<link rel="manifest" href="images/site.webmanifest">		
+  	</head>
+  	<body>
+
+		<div class="container py-3">
+  			<header>
+   				<div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+				   <a href="index.php" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+       					<span class="fs-4"><img src="images/together.png" width="180" height="150"> </span>
+						<h1 class="display-3 fw-normal text-body-emphasis">Racial Diversity In Lacrosse</h1>
+
+					</a>
+
+      				<nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+					  	<a class="me-3 py-2 link-body-emphasis text-decoration-none" href="coach.php">Coaches Interviewed</a>
+						  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="story.php">Teammate Story</a>
+						<a class="me-3 py-2 link-body-emphasis text-decoration-none" href="find.php">My Findings</a>
+
+      				</nav>
+    			</div>
+
+
+    <main role="main">
+
+      <div class="jumbotron">
+        <div class="container">
+          <h3 class="display-3">Meet the Coaches</h3>
+        </div>
+      </div>
+<br>
+<br>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h2>Coach Gilbert</h2>
+			<span class="fs-4"><img src="images/gilbert.png" class="rounded" width="300" height="300"> </span>
+			<br>
+			<br>
+            <p>Curtis Gilbert is the head coach of the men's lacrosse team at Berry College, located in Rome, Georgia. With over 11 years of coaching experience at Berry, Coach Gilbert has demonstrated a strong commitment to fostering a competitive yet inclusive team culture. Under his leadership, the team has thrived both on and off the field, with an emphasis on recruiting talented players from diverse backgrounds. Coach Gilbert's dedication to ensuring equal opportunities for all individuals within his program is evident through his proactive approach to addressing any issues related to diversity and inclusion. With a focus on developing well-rounded athletes, Coach Gilbert not only prioritizes success in lacrosse but also instills values of respect, teamwork, and integrity in his players. Through his leadership, Coach Gilbert continues to make a positive impact on the Berry College lacrosse program and the broader lacrosse community.</p>
+          </div>
+
+          <div class="col-md-4">
+            <h2>Coach Dangel</h2>
+			<span class="fs-4"><img src="images/dangel.png" class="rounded" width="300" height="300"> </span>
+			<br>
+			<br>
+            <p>Scott Dangel is the head coach of the Oglethorpe University men's lacrosse team. With a passion for lacrosse and a dedication to fostering a diverse and inclusive team environment, Coach Dangel plays a pivotal role in shaping the program's culture. Hailing from Atlanta, Coach Dangel brings a wealth of experience and insight to his coaching role. He emphasizes the importance of embracing diversity and regularly engages his team in the university's diversity and inclusion seminars to promote understanding and unity among players from different backgrounds. Coach Dangel is not only committed to developing strong lacrosse players but also to nurturing well-rounded individuals who exhibit good manners and morals both on and off the field. Through his leadership, Coach Dangel strives to create a supportive and respectful team environment where every player feels valued and included.</p>
+          </div>
+
+          <div class="col-md-4">
+            <h2>Coach Sewell</h2>
+			<span class="fs-4"><img src="images/sewell.png" class="rounded" width="320" height="300"> </span>
+			<br>
+			<br>
+            <p>Brandon Sewell is the head lacrosse coach at Lagrange College, where he oversees the development and performance of the lacrosse team. With a strong focus on inclusivity and character development, Coach Sewell strives to create a supportive and respectful environment for all players under his leadership. He emphasizes the importance of understanding and respecting diverse backgrounds, enforcing team rules that prohibit any form of racial comments or actions. Coach Sewell is dedicated not only to coaching lacrosse skills but also to nurturing well-behaved young men who exhibit good manners and morals. His approach to coaching reflects his commitment to fostering a positive team culture both on and off the field.</p>
+          </div>
+        </div>
